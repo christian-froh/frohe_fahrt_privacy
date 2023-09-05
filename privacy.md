@@ -20,9 +20,9 @@ This Services does not uses these “cookies” explicitly. However, the app may
 Continuous Location Data Collection
 Our Frohe Fahrt app may collect and use your location data under the following circumstances:
 
-Live Location Sharing for Drivers (Background Permission): When a driver chooses to share their live location, passengers can view the driver's real-time location. This feature ensures that passengers can easily locate the driver when meeting at a designated meeting point. For this feature, the app collects location data even when it's running in the background.
+* Live Location Sharing for Drivers (Background Permission): When a driver chooses to share their live location, passengers can view the driver's real-time location. This feature ensures that passengers can easily locate the driver when meeting at a designated meeting point. For this feature, the app collects location data even when it's running in the background.
 
-Auto-fill Address Feature (Foreground Permission): When a user is creating a ride and needs to specify an origin or destination, our app uses the location data to auto-fill the address, making the ride creation process more convenient for the user. This feature requires location access only when the app is actively being used (foreground permission).
+* Auto-fill Address Feature (Foreground Permission): When a user is creating a ride and needs to specify an origin or destination, our app uses the location data to auto-fill the address, making the ride creation process more convenient for the user. This feature requires location access only when the app is actively being used (foreground permission).
 
 It's important to note that continuous background location collection for the live location sharing feature can decrease battery life. However, we've optimized our app to minimize battery consumption while providing this feature. Users have the option to turn off continuous location sharing in the app settings, but doing so may affect the functionality of the live location sharing feature.
 
