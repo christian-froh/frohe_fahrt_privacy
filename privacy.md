@@ -1,54 +1,38 @@
-Privacy Policy  
-----------------
+Datenschutzerklärung für die App "Frohe Fahrt" der Frohe Fahrt GmbH
+--------------------------------------------------------------------
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at *Frohe Fahrt*, how *Frohe Fahrt* uses it, and what choices you have.
-*Frohe Fahrt GmbH* built the *Frohe Fahrt* app as a free app. This SERVICE is provided by *Frohe Fahrt* at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+### Einleitung
+Die Frohe Fahrt GmbH legt großen Wert auf den Schutz Ihrer persönlichen Daten. Diese Datenschutzerklärung informiert Sie darüber, welche Daten wir von Ihnen erheben und wie wir sie verwenden.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information. The only data we collect for authentication purposes are your name and email address. We do not forward these data to any marketing or other services. The information that we request will be retained by us and used as described in this privacy policy.
+### Erhebung und Verwendung personenbezogener Daten
+Wenn Sie unsere App "Frohe Fahrt" nutzen, erheben wir folgende personenbezogene Daten von Ihnen:
 
-The app does use third party services that may collect information used to identify you. However, your name and email address collected for authentication are not shared with these third-party services.
+E-Mail-Adresse
+Vorname
+Nachname
+Diese Daten werden ausschließlich zur Authentifizierung verwendet und nicht an Dritte weitergegeben.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+### Standortdaten
+Um die Funktionalität unserer App zu gewährleisten, erheben wir Ihren Standort. Dies ermöglicht es uns, Adressen automatisch auszufüllen und Ihnen so eine bessere Benutzererfahrung zu bieten.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Zusätzlich kann der Standort im Hintergrundmodus erfasst werden, wenn Sie als Fahrer dies zulassen. Dies ermöglicht es den Mitfahrern, Ihnen zu folgen und das Finden am vereinbarten Treffpunkt zu erleichtern. Es liegt in Ihrer Entscheidung, ob Sie den Standort im Hintergrund freigeben möchten oder nicht.
 
-### Location Information  
-Continuous Location Data Collection
-Our Frohe Fahrt app may collect and use your location data under the following circumstances:
+### Zugriffsrechte
+Unsere App benötigt Zugriff auf:
 
-* Live Location Sharing for Drivers (Background Permission): When a driver chooses to share their live location, passengers can view the driver's real-time location. This feature ensures that passengers can easily locate the driver when meeting at a designated meeting point. For this feature, the app collects location data even when it's running in the background.
+Ihren Standort: Um Adressen automatisch auszufüllen und die Standortverfolgung im Hintergrundmodus zu ermöglichen.
 
-* Auto-fill Address Feature (Foreground Permission): When a user is creating a ride and needs to specify an origin or destination, our app uses the location data to auto-fill the address, making the ride creation process more convenient for the user. This feature requires location access only when the app is actively being used (foreground permission).
+### Datensicherheit
+Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre persönlichen Daten vor Verlust, Zerstörung, Manipulation und unberechtigtem Zugriff zu schützen.
 
-It's important to note that continuous background location collection for the live location sharing feature can decrease battery life. However, we've optimized our app to minimize battery consumption while providing this feature. Users have the option to turn off continuous location sharing in the app settings, but doing so may affect the functionality of the live location sharing feature.
+### Änderungen dieser Datenschutzerklärung
+Wir behalten uns vor, diese Datenschutzerklärung zu ändern, um sie an geänderte Rechtslagen oder bei Änderungen des Dienstes sowie der Datenverarbeitung anzupassen.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### Kontakt
+Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten können Sie sich direkt an uns wenden:
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
-
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
-
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
-
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
-
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
-
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: *christian.froh@googlemail.com*  
+Frohe Fahrt GmbH
+Eschenweg 53
+19258 Boizenburg
++49 174 7112233
+christian.froh@googlemail.com
